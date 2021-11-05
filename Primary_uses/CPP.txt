@@ -1,0 +1,5 @@
+C++ is an extension of the C language, and supports objected-oriented programming in a way that C does not. 
+
+C++ is a compiled langauge and is used in broadly for its speed and expansive standard library. 
+
+Additionally it is an open source language which is critical to its widespread adoption in industry

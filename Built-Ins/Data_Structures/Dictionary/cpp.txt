@@ -1,0 +1,14 @@
+Two primary forms of dictionaries in cpp (built in)
+
+First is unordered_map which is a hashtable, then there is ordered_map which is implemented as a bst.
+
+Use #include<unordered_map> as a header, it is guaranteed to be in the language but not guaranteed to be built yet.
+
+To add simply use at e.g hash[3] = 4;
+
+To check if key is in dictionary use map::find, e.g m.find(key) == m.end() to find if key is not in dict.
+
+To enumerate objects, use iterators
+for(it = table.begin(); it != table.end(); it++){
+    it->first // key
+    it->second // value

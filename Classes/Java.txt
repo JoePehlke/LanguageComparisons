@@ -1,0 +1,1 @@
+Java classes need to start with a java letter which includes letters, and some other special characters like the ascii underscore or $

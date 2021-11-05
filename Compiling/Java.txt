@@ -1,0 +1,2 @@
+Java is compiled in 2 steps, first, using the java devlopment kit, or JDK. Java programs are compiled into bytecode, and then 
+executed within the java virtual machine (JVM) at runtime. 
