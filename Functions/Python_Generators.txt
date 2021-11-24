@@ -1,0 +1,6 @@
+Generator functions are used to create a function that works like an iterator
+
+Generator functions use a keyword, named yield. Yield acts like a return, but it saves the state of the function so that the next time that the function is called
+the function resumes from where the yield keyword left it off. 
+
+
