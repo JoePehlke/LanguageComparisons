@@ -1,0 +1,12 @@
+Passing by value is where where a copy of the parameters of the function call is made, and the copy is modified in the called function. 
+The changes made to parameters in pass by reference are local to the called function. 
+
+Passing by reference(AKA passing by address) is when the actual parameter is passed and there is no extra time/memory taken to copy
+
+
+
+
+
+
+
+Citation: https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
